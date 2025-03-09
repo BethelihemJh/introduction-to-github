@@ -5,7 +5,7 @@
   Include a 1280×640 image, your name, and a tagline that reflects your passion.
 -->
 
-# Bethelihem  
+# Bethelhem  
 _ is a passionate Web Developer, Mobile App Developer, and Ethical Hacker_
 
 </header>
